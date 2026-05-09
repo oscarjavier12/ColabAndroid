@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Mi Ciudad — Oaxaca</string>
+
+    <string name="category_coffee">Cafeterías</string>
+    <string name="category_restaurants">Restaurantes</string>
+    <string name="category_parks">Parques</string>
+    <string name="category_museums">Museos</string>
+    <string name="category_shopping">Compras</string>
+
+    <string name="place1_name">Café Los Cuiles</string>
+    <string name="place1_address">Macedonio Alcalá 303, Centro</string>
+    <string name="place1_desc">Una querida cafetería de especialidad en el corazón del centro histórico de Oaxaca. Los Cuiles obtiene granos de origen único de la Sierra Norte, donde comunidades indígenas han cultivado café por generaciones. El café ofrece un ambiente cálido y artístico con paredes de ladrillo visto, arte local y un acogedor patio. No te puedes perder su firma cold brew y el tradicional café de olla.</string>
+
+    <string name="place2_name">Bruma Café</string>
+    <string name="place2_address">Reforma 509, Centro Histórico</string>
+    <string name="place2_desc">Bruma significa niebla, y entrar en este café se siente exactamente así: tranquilo, suave y envolvente. Ubicado a pocos pasos de la plaza principal, Bruma sirve métodos de extracción (pour-over) y bebidas de espresso preparados con maestría, junto con repostería artesanal. El personal es apasionado por el origen de sus granos y con gusto te explicará las notas de cata de cada tueste.</string>
+
+    <string name="place3_name">La Olla Café</string>
+    <string name="place3_address">Reforma 402, Barrio de Jalatlaco</string>
+    <string name="place3_desc">Ubicado en el encantador barrio de Jalatlaco, La Olla es un acogedor café de barrio que funciona también como espacio cultural. Las mañanas de los fines de semana suelen contar con música acústica en vivo. Su desayuno tradicional con huevos, frijoles negros y tortillas frescas combina de maravilla con su rico café de olla, elaborado con canela y piloncillo en una olla de barro.</string>
+
+    <string name="place4_name">Hierba Santa Coffee</string>
+    <string name="place4_address">García Vigil 207, Centro</string>
+    <string name="place4_desc">Llamado así por la aromática hierba local, Hierba Santa Coffee es una micro-tostadora y cafetería que celebra la agricultura oaxaqueña. Tuestan sus granos en el lugar y ofrecen sesiones de cata para entusiastas del café. El espacio es minimalista y tranquilo, ideal para el trabajo remoto o la lectura silenciosa. Prueba su latte de lavanda con leche de avena para algo único y local.</string>
+
+    <string name="place5_name">Casa Oaxaca Restaurante</string>
+    <string name="place5_address">García Vigil 407, Centro</string>
+    <string name="place5_desc">El restaurante insignia del chef Alejandro Ruiz es ampliamente considerado una de las mejores experiencias gastronómicas de México. Casa Oaxaca eleva la cocina tradicional oaxaqueña con técnicas contemporáneas, sirviendo platos como mole negro con confit de pato, tlayudas con maíz criollo y tostadas de chapulines con guacamole. La terraza ofrece vistas impresionantes de la ciudad y del Templo de Santo Domingo.</string>
+
+    <string name="place6_name">Los Danzantes</string>
+    <string name="place6_address">Macedonio Alcalá 403, Centro</string>
+    <string name="place6_desc">Los Danzantes es un restaurante emblemático y una marca de mezcal alojada en un impresionante edificio colonial del siglo XVI. El menú celebra los sabores regionales oaxaqueños con platos que incluyen chiles locales, hierbas y quesos artesanales. Su selección de mezcales es extraordinaria, y el personal experto puede guiarte a través de las catas. El patio central, iluminado por la noche, es mágico.</string>
+
+    <string name="place7_name">Itanoní Antojería</string>
+    <string name="place7_address">Belisario Domínguez 513, Colonia Reforma</string>
+    <string name="place7_desc">Una humilde pero extraordinaria tortillería y antojería dedicada a preservar las variedades de maíz nativo. Itanoní trabaja directamente con agricultores indígenas para obtener maíz criollo poco común y prepara tortillas frescas, memelas y tlayudas utilizando métodos tradicionales. Esta es la comida callejera auténtica de Oaxaca elevada a la categoría de arte. La sencillez de los ingredientes permite que su calidad excepcional hable por sí misma.</string>
+
+    <string name="place8_name">Criollo</string>
+    <string name="place8_address">Reforma 502, Centro Histórico</string>
+    <string name="place8_desc">El chef Enrique Olvera, famoso por Pujol, abrió Criollo para explorar las raíces de la cocina mexicana. El menú de degustación cambia según la temporada y se basa en ingredientes de pequeños productores y artesanos locales. Cada plato cuenta una historia de la biodiversidad y tradición culinaria de Oaxaca. Se recomienda encarecidamente reservar. El almuerzo es un viaje de dos horas por los sabores de la región.</string>
+
+    <string name="place9_name">Jardín Etnobotánico de Oaxaca</string>
+    <string name="place9_address">Reforma s/n, Ex Convento de Santo Domingo</string>
+    <string name="place9_desc">Uno de los jardines botánicos más notables de América Latina, el Jardín Etnobotánico de Oaxaca se encuentra dentro de los terrenos del antiguo convento de Santo Domingo. El jardín preserva más de 1,000 especies de plantas nativas de la región oaxaqueña, incluyendo cactus gigantes, agaves utilizados en la producción de mezcal y plantas medicinales usadas por comunidades indígenas durante siglos. Las visitas guiadas en español e inglés están disponibles y son muy recomendadas.</string>
+
+    <string name="place10_name">Parque El Llano</string>
+    <string name="place10_address">Av. Juárez, Colonia Jalatlaco</string>
+    <string name="place10_desc">El Parque El Llano es el parque más querido de la ciudad de Oaxaca: un lugar de reunión arbolado y vibrante para locales de todas las edades. Los fines de semana se llena de familias, vendedores de comida callejera, músicos y artesanos. Hay bancos bajo la sombra de árboles masivos, un área de juegos para niños y un quiosco que alberga conciertos gratuitos. Es el lugar perfecto para experimentar la vida cotidiana de Oaxaca en un ambiente relajado.</string>
+
+    <string name="place11_name">Cerro del Fortín</string>
+    <string name="place11_address">Calzada Porfirio Díaz, Centro</string>
+    <string name="place11_desc">Un parque en la cima de la colina y anfiteatro con vista a la ciudad de Oaxaca. El Cerro del Fortín es el sitio del famoso festival de la Guelaguetza y ofrece vistas panorámicas del valle y las montañas circundantes. Un largo sendero de escaleras sube a través de caminos boscosos, lo que lo convierte en un lugar popular para corredores y excursionistas matutinos. En la cima, el auditorio al aire libre tiene capacidad para miles de personas en eventos culturales y conciertos.</string>
+
+    <string name="place12_name">Museo de las Culturas de Oaxaca</string>
+    <string name="place12_address">Macedonio Alcalá s/n, Ex Convento de Santo Domingo</string>
+    <string name="place12_desc">Ubicado dentro del magnífico convento de Santo Domingo, este es uno de los mejores museos regionales de México. Su joya de la corona es la colección de la Tumba 7 de Monte Albán: una asombrosa exhibición de artefactos de oro, jade, obsidiana y hueso de la civilización mixteca. La colección permanente abarca miles de años de historia oaxaqueña, desde las civilizaciones precolombinas hasta la era colonial y la actualidad. Reserva al menos dos horas para la visita.</string>
+
+    <string name="place13_name">Museo Textil de Oaxaca</string>
+    <string name="place13_address">Hidalgo 917, Centro Histórico</string>
+    <string name="place13_desc">Un hermoso museo dedicado enteramente a las tradiciones textiles de Oaxaca y el mundo. La colección incluye tejidos tradicionales zapotecos y mixtecos, vestimentas ceremoniales y arte textil contemporáneo. El museo también organiza talleres de tejido y apoya a las comunidades artesanales locales. La entrada es gratuita y la tienda de regalos vende textiles hechos a mano de alta calidad directamente de los artesanos que los crearon.</string>
+
+    <string name="place14_name">MACO — Museo de Arte Contemporáneo</string>
+    <string name="place14_address">Macedonio Alcalá 202, Centro</string>
+    <string name="place14_desc">El Museo de Arte Contemporáneo de Oaxaca ocupa una impresionante casa colonial del siglo XVII y presenta exposiciones rotativas de arte contemporáneo mexicano e internacional. El museo ha defendido durante mucho tiempo a los artistas oaxaqueños y ha exhibido obras de Rufino Tamayo y Francisco Toledo, dos de los pintores más célebres de México. El edificio en sí es una atracción: su arquitectura colonial y sus patios están bellamente preservados.</string>
+
+    <string name="place15_name">Mercado Benito Juárez</string>
+    <string name="place15_address">20 de Noviembre s/n, Centro</string>
+    <string name="place15_desc">El principal mercado tradicional de la ciudad es un festín sensorial. Los puestos rebosan de quesos oaxaqueños (quesillo), tasajo, chiles secos, chocolate, pastas de mole, mezcal y artesanías. La sección de comida fresca ofrece algunos de los mejores desayunos tradicionales de la ciudad: memelas, tamales y enfrijoladas a precios inmejorables. Aquí es donde los oaxaqueños compran a diario, y es la experiencia de mercado más auténtica de la ciudad.</string>
+
+    <string name="place16_name">Mercado de Artesanías</string>
+    <string name="place16_address">J.P. García, esquina Zaragoza, Centro</string>
+    <string name="place16_desc">El mercado de artesanías es el mejor lugar para comprar artesanías tradicionales de Oaxaca directamente de sus creadores. Los puestos están llenos de alfarería de barro negro, alebrijes (animales de madera pintados), textiles bordados, artículos de cuero y cerámica pintada a mano. Los precios son justos y se acepta el regateo. Muchos de los artesanos viajan desde los pueblos circundantes; pregunta por el origen de sus artesanías para una experiencia más enriquecedora.</string>
+
+    <string name="place17_name">Andador Macedonio Alcalá</string>
+    <string name="place17_address">Macedonio Alcalá, Centro Histórico</string>
+    <string name="place17_desc">La famosa calle peatonal de Oaxaca —conocida localmente simplemente como "El Andador"— está llena de boutiques, galerías, restaurantes y artistas callejeros. Conecta la plaza principal con el Templo de Santo Domingo y es el corazón social de la ciudad. Aquí encontrarás tiendas de artesanía de alta calidad, boutiques de diseño con moda oaxaqueña y joyerías que exhiben trabajos con coral, ámbar y plata de la región.</string>
+</resources>
