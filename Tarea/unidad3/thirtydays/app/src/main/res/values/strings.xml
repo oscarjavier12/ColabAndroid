@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">thirtydays</string>
+    <string name="day_of">Día %d</string>
+    <string name="expand_more">Mostrar más</string>
+    <string name="expand_less">Mostrar menos</string>
+
+    <string name="day1_title">Meditación Matutina</string>
+    <string name="day1_description">Comienza tu día con 5 minutos de respiración profunda. Busca un lugar tranquilo, cierra los ojos y concéntrate en tu respiración. Inhala en 4 tiempos, mantén por 4 y exhala en 4. Esta práctica sencilla reduce los niveles de cortisol y establece un tono de calma para todo el día.</string>
+
+    <string name="day2_title">Bebe más Agua</string>
+    <string name="day2_description">La hidratación es clave para la energía, el enfoque y la salud física. Ponte la meta de beber 8 vasos de agua hoy. Puedes añadir rodajas de limón o pepino para darle sabor. Mantén una botella cerca como recordatorio visual durante el día.</string>
+
+    <string name="day3_title">Camina al Aire Libre</string>
+    <string name="day3_description">Una caminata de 20 minutos en la naturaleza mejora el ánimo, reduce la ansiedad y aumenta la creatividad. Deja tu teléfono o ponlo en silencio. Nota los sonidos, olores y vistas a tu alrededor. El movimiento físico, incluso suave, beneficia tanto al cuerpo como a la mente.</string>
+
+    <string name="day4_title">Diario de Gratitud</string>
+    <string name="day4_description">Escribe 3 cosas por las que estés agradecido hoy. Pueden ser grandes o pequeñas: una buena taza de café, una palabra amable de un amigo o simplemente estar vivo. Las investigaciones demuestran que el diario de gratitud mejora la felicidad y reduce la depresión con el tiempo.</string>
+
+    <string name="day5_title">Limita el Tiempo en Pantalla</string>
+    <string name="day5_description">Retate a reducir el tiempo de pantalla en una hora hoy. Usa ese tiempo para leer un libro, cocinar o conversar sin dispositivos. Los descansos digitales mejoran la calidad del sueño, reducen la fatiga visual y te ayudan a reconectar con el momento presente.</string>
+
+    <string name="day6_title">Desayuno Saludable</string>
+    <string name="day6_description">Nutre tu cuerpo con un desayuno nutritivo. Prueba avena con frutas y nueces, o huevos con pan integral. Una comida matutina equilibrada estabiliza el azúcar en sangre, mejora la concentración y reduce los antojos durante el día.</string>
+
+    <string name="day7_title">Estírate por 10 Minutos</string>
+    <string name="day7_description">Dedica 10 minutos a hacer estiramientos suaves para cuello, hombros, espalda y piernas. El estiramiento libera la tensión muscular, mejora la postura y aumenta la circulación. Es especialmente importante si pasas largas horas sentado frente a un escritorio.</string>
+
+    <string name="day8_title">Lee por Placer</string>
+    <string name="day8_description">Toma un libro que hayas querido leer y disfruta de al menos 20 minutos de lectura hoy. Leer reduce el estrés hasta en un 68%, mejora la empatía y mantiene tu cerebro ágil. ¡Ficción, no ficción, poesía — todo cuenta!</string>
+
+    <string name="day9_title">Conecta con un Amigo</string>
+    <string name="day9_description">Contacta a alguien con quien no hayas hablado en un tiempo. Envía un mensaje, haz una llamada o planea un encuentro. La conexión social es uno de los predictores más fuertes de felicidad y longevidad. Unos minutos de conexión genuina pueden animarlos a ambos.</string>
+
+    <string name="day10_title">Ordena un Espacio</string>
+    <string name="day10_description">Elige un área pequeña —un cajón, tu escritorio o un estante— y ordénala hoy. Un entorno ordenado reduce el ruido mental, aumenta el enfoque y da una sensación satisfactoria de logro. Las pequeñas victorias generan impulso para cambios mayores.</string>
+
+    <string name="day11_title">Prueba una Nueva Receta</string>
+    <string name="day11_description">Cocina algo que nunca hayas hecho antes. Cocinar en casa es más saludable, económico y una maravillosa salida creativa. Busca una receta sencilla con ingredientes frescos y disfruta tanto del proceso como de la comida misma.</string>
+
+    <string name="day12_title">Hora de Desintoxicación Digital</string>
+    <string name="day12_description">Reserva una hora completamente libre de pantallas y notificaciones. Usa este tiempo para algo táctil: dibujar, jardinería, tocar un instrumento o simplemente descansar. Tu sistema nervioso agradecerá el descanso de la estimulación constante.</string>
+
+    <string name="day13_title">Practica la Escucha Profunda</string>
+    <string name="day13_description">En tu próxima conversación, enfócate totalmente en escuchar sin planear tu respuesta. Haz contacto visual, haz preguntas de seguimiento y resiste la urgencia de revisar tu teléfono. La escucha profunda fortalece las relaciones y hace que las personas se sientan valoradas.</string>
+
+    <string name="day14_title">Ve a Dormir Temprano</string>
+    <string name="day14_description">Intenta estar en la cama entre 30 y 60 minutos antes de lo habitual esta noche. El sueño de calidad es fundamental para cada aspecto de la salud: inmunidad, estado de ánimo, cognición y metabolismo. Crea una rutina relajante: luces tenues y sin pantallas.</string>
+
+    <string name="day15_title">Mueve tu Cuerpo</string>
+    <string name="day15_description">Haz 30 minutos de cualquier actividad física que disfrutes: bailar, andar en bicicleta, nadar, yoga o un video de ejercicios. El ejercicio libera endorfinas y reduce el estrés. El mejor entrenamiento es el que realmente disfrutas hacer.</string>
+
+    <string name="day16_title">Aprende Algo Nuevo</string>
+    <string name="day16_description">Dedica 20 minutos a aprender sobre un tema que te fascine. Mira un documental, toma una mini lección en línea o lee un artículo. El aprendizaje permanente mantiene tu cerebro neuroplástico, genera confianza y abre puertas a nuevas pasiones.</string>
+
+    <string name="day17_title">Alimentación Consciente</string>
+    <string name="day17_description">Come al menos una comida hoy sin distracciones. Sin televisión, teléfono ni lectura. Mastica lentamente, nota sabores y texturas, y presta atención a las señales de hambre y saciedad. Mejora la digestión y convierte la comida en un momento de placer.</string>
+
+    <string name="day18_title">Actos de Bondad</string>
+    <string name="day18_description">Realiza tres pequeños actos de bondad hoy: sostén una puerta, elogia a un colega o dona a una causa. La amabilidad aumenta la serotonina tanto en quien da como en quien recibe, creando un efecto dominó de positividad.</string>
+
+    <string name="day19_title">Pasa Tiempo en la Naturaleza</string>
+    <string name="day19_description">Ve a un parque, jardín, playa o bosque durante al menos 30 minutos. La exposición a la naturaleza baja la presión arterial, reduce la ansiedad y restaura la claridad mental. Incluso cuidar plantas de interior ofrece beneficios medibles.</string>
+
+    <string name="day20_title">Establece Límites</string>
+    <string name="day20_description">Practica decir "no" a una cosa que agote tu energía hoy. Los límites saludables no son egoístas, son esenciales para el bienestar sostenible. Comunicar tus límites claramente te permite estar presente para lo que realmente importa.</string>
+
+    <string name="day21_title">Expresión Creativa</string>
+    <string name="day21_description">Dedica 20 minutos a una actividad creativa: dibujar, escribir, música o manualidades. No necesitas talento; el objetivo es la expresión, no la perfección. La creatividad reduce el estrés y te conecta con tu interior.</string>
+
+    <string name="day22_title">Revisión Financiera</string>
+    <string name="day22_description">Revisa tus finanzas por 15 minutos. Mira tus gastos recientes, tu meta de ahorro e identifica un área a mejorar. El estrés financiero es una gran fuente de ansiedad. Un control pequeño y regular te mantiene informado y reduce la preocupación.</string>
+
+    <string name="day23_title">Afirmaciones Positivas</string>
+    <string name="day23_description">Escribe o di 5 afirmaciones positivas sobre ti. Sé específico y genuino: "Soy resiliente", "Estoy aprendiendo y creciendo". Repetidas en el tiempo, las afirmaciones ayudan a cambiar patrones de pensamiento negativos.</string>
+
+    <string name="day24_title">Toma una Siesta</string>
+    <string name="day24_description">Si puedes, toma una siesta reparadora de 20 minutos hoy. Las siestas cortas mejoran el estado de alerta y el ánimo sin afectar el sueño nocturno. Encuentra un lugar tranquilo, pon una alarma y dale a tu cerebro un descanso genuino.</string>
+
+    <string name="day25_title">Voluntariado o Retribución</string>
+    <string name="day25_description">Encuentra una forma de contribuir a tu comunidad hoy. Dona una hora, regala cosas que ya no uses o apoya una causa local. Dar crea un sentido de propósito y pertenencia, vinculado con una mayor satisfacción vital.</string>
+
+    <string name="day26_title">Ríe Más</string>
+    <string name="day26_description">Mira un programa divertido, comparte chistes o busca algo que te haga reír de verdad. La risa reduce el cortisol y la adrenalina, libera endorfinas y fortalece el sistema inmunológico. Es una de las medicinas más poderosas.</string>
+
+    <string name="day27_title">Planea una Meta Futura</string>
+    <string name="day27_description">Piensa en una meta que quieras alcanzar en los próximos 3 a 6 meses. Escríbela junto con 3 pasos concretos para lograrla. Tener metas claras da dirección y activa los sistemas de motivación y recompensa del cerebro.</string>
+
+    <string name="day28_title">Práctica del Perdón</string>
+    <string name="day28_description">Reflexiona sobre alguien —incluyéndote a ti mismo— a quien necesites perdonar. Perdonar no significa aprobar un daño; significa liberar la carga del resentimiento de tu propio corazón para encontrar tu propia paz.</string>
+
+    <string name="day29_title">Reflexión Nocturna</string>
+    <string name="day29_description">Antes de dormir, dedica 10 minutos a revisar tu día. ¿Qué salió bien? ¿Qué te desafió? ¿Qué harías diferente? La reflexión diaria construye autoconciencia y te permite abordar el mañana con claridad e intención.</string>
+
+    <string name="day30_title">Celebra tu Camino</string>
+    <string name="day30_description">¡Lo lograste durante 30 días! Tómate el tiempo hoy para celebrar genuinamente tu compromiso contigo mismo. Reflexiona sobre cómo has crecido y qué hábitos quieres mantener. El bienestar es una práctica de por vida. ¡Siéntete orgulloso!</string>
+</resources>
